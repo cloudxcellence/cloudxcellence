@@ -1,6 +1,6 @@
 ![Alt text](readme-assets/logo.jpg?raw=true "CloudExcellence")
 
-# CloudExcellence
+# Cloudxcellence
 
 ## Marketplace Deployment Steps
 

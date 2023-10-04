@@ -2,6 +2,14 @@
 
 # Cloudxcellence
 
+![Slide1](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/dfe5f95d-7980-44b5-8e65-633b73f839d2)
+![Slide2](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/6f4ceceb-a265-4334-b4ab-caae4c264d03)
+
+![Slide7](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/183cb4e0-e0cd-42da-845d-f93cb75bc759)
+
+
+
+
 ## Marketplace Deployment Steps
 
 ### Pre-Deployment

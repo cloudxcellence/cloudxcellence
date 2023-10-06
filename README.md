@@ -1,39 +1,36 @@
-![Alt text](readme-assets/logo.jpg?raw=true "CloudExcellence")
-
 # Cloudxcellence
 
 ![Slide1](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/dfe5f95d-7980-44b5-8e65-633b73f839d2)
 ![Slide2](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/6f4ceceb-a265-4334-b4ab-caae4c264d03)
 
+![Slide3](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/90da2a62-c58d-4e79-9f07-68ba9afda3b3)
+![Slide4](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/04cff860-fc23-4cda-90e3-4b8e994cae1d)
+![Slide5](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/99787244-663a-41d5-93b8-470e766cac06)
+![Slide6](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/56983491-b16c-46b7-8865-c70315fa74c1)
 ![Slide7](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/183cb4e0-e0cd-42da-845d-f93cb75bc759)
-
-
-
-
-## Marketplace Deployment Steps
-
-### Pre-Deployment
-* Gather the below information as mentioned in the table -
-
-| Sl no.        | Parameter Details           | Description  |
-| ------------- |:-------------|:-----|
-| 1             | Client Id ( or service principle) | A service principle is needed for the CloudXcellence app to fetch the data at the subscription level for multiple resources. |
-| 2             | Client Secret      |   The `secret` of the above client id. |
-| 3             | Service Principle Object Id      | An Object Id of the above Client Id is also needed for the deployment to succeed. |
-| 4             | Send EmailNotifications To          | List of comma separated email ids to send alerts ( under development ) | 
-| 5             | Deploy DB          | Default is True, please do not change. | 
-
-
-### Post-Deployment
-
-Configure the below settings to enable the dashboard. For this you need to go to below sections in your chosen service principle under Azure Active Directory.
-
-
-* Authentication - Configure the SPA and Grant Types and math the other settings as shown below.
-![Alt text](readme-assets/Authentication.png?raw=true "Authentication")
-
-* API permissions - Configure the SPA and Grant Types and math the other settings as shown below.
-![Alt text](readme-assets/API_Permissions.jpg?raw=true "API_Permissions")
-
-* Add users - Configure this setting to add the users who would like to access the CloudXcellence dashboard. You can visit this setting from the service principle's overview tab, then `Configure for your organization`, then `Assign users and groups`
-![Alt text](readme-assets/Add_Users.jpg?raw=true "Add_Users")
+![Slide8](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/213757ab-0a26-4b4f-8f8c-c8aa4f2e1b18)
+![Slide9](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/15399935-31c1-43dd-a5e5-def6c41ec6a1)
+![Slide10](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/c91270d1-be3a-4217-83c5-ec4d34de7751)
+![Slide11](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/8e1ec274-7b43-4c11-9310-9b2989ca2fa1)
+![Slide12](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/3a64faa9-3248-4d3d-bf82-fb25cbbd743c)
+![Slide13](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/7155fbaa-7675-4717-bedb-0f321d7f5298)
+![Slide14](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/afbe14c0-ea15-49d9-9415-fc287c28ad3e)
+![Slide15](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/8a8c95d2-5b09-417a-bd46-e3461ce7ec4d)
+![Slide17](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/9fc1578a-ed31-431a-89a0-65561b13d11b)
+![Slide18](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/37ab9fb7-f92d-42e8-beda-e90c58cdbbe9)
+![Slide19](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/8f51795d-c8dd-42a0-801e-9188a8d49313)
+![Slide20](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/5b22c363-578e-40b3-972d-223d69ef8da4)
+![Slide21](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/523b5a19-1bb2-4822-adb0-0a40c6854ca1)
+![Slide22](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/e38ca590-cd74-439a-9df2-6bcf4c5fc618)
+![Slide23](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/faf87c60-099b-452d-9a4c-d2bb4e8801ae)
+![Slide24](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/40ac7c54-1b10-400f-aa3f-02e1761b0607)
+![Slide25](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/66aa7f7c-892b-4a63-977c-196c447aa0d3)
+![Slide26](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/094281c4-4978-4de9-9cd6-49a0c597f71d)
+![Slide27](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/7db4f5ba-2ba7-4850-b496-5e7f13299018)
+![Slide28](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/0f00b993-9a4d-471e-9fd1-d5e13a3ccf9f)
+![Slide29](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/23e81e32-8bdd-46a0-ab0c-f418ac3e04c3)
+![Slide30](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/c044bc3c-9458-4e28-a812-e0b524f7ada9)
+![Slide31](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/7296045e-5331-49f9-9e41-a0c0967586eb)
+![Slide32](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/1b01d5bd-2a47-4c8c-a736-84f3185ad4c4)
+![Slide33](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/46328b5c-d53c-4320-bbdf-96948a3185a3)
+![Slide34](https://github.com/cloudxcellence/cloudxcellence/assets/71469979/e0244986-e240-4a15-a695-a57c45efa77a)
